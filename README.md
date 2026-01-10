@@ -2,16 +2,16 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Iago Silva, tenho 20 anos. Atualmente sou um estudante de Desenvolvimento de Software.
+Me chamo Iago Silva, tenho 20 anos. Atualmente sou um estudante de Desenvolvimento de Software, com interesse em Engenharia de Dados e/ou áreas correlatas.
 
 <p align="left">
   
-  <a href="https://mail.google.com/mail/?view=cm&to=iagosilvaadrade0508@gmail.com">
+  <a href="malito: iagosilvaadrade0508@gmail.com">
         <img 
             alt="sendmeEmail" 
             title="Envie-me um Email" 
-            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?color=%23E05D44&label=Envia-me&logo=mail&logoColor=white&style=for-the-badge&labelColor=CE4630"
- 
+            src="https://custom-icon-badges.demolab.com/badge/Email-E61B23.svg?color=%23E05D44&label=Envia-me&logo=mail&logoColor=white&style=for-the-badge&labelColor=CE4630"
+   </a>
     
   <a href="https://github.com/Guinho-Silva?tab=followers">
         <img 
@@ -43,7 +43,7 @@ DevIcons
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -52,7 +52,7 @@ DevIcons
     align="left" 
     alt="SQL"
     title="SQL" 
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
@@ -61,16 +61,16 @@ DevIcons
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 
 <img 
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -79,7 +79,7 @@ DevIcons
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -115,7 +115,7 @@ DevIcons
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
@@ -133,7 +133,7 @@ DevIcons
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
@@ -151,7 +151,7 @@ DevIcons
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -165,7 +165,7 @@ DevIcons
     align="left" 
     alt="VsCode" 
     title="VsCode"
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
@@ -174,7 +174,7 @@ DevIcons
     align="left" 
     alt="Colab" 
     title="Colab"
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-plain.svg" 
 />
@@ -183,7 +183,7 @@ DevIcons
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
@@ -192,7 +192,7 @@ DevIcons
     align="left" 
     alt="SQLServer" 
     title="SQLServer"
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
 />
@@ -207,7 +207,7 @@ DevIcons
     align="left" 
     alt="Pandas" 
     title="Pandas"
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
 />
@@ -216,7 +216,7 @@ DevIcons
     align="left" 
     alt="Numpy" 
     title="Numpy"
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
 />
@@ -225,7 +225,7 @@ DevIcons
     align="left" 
     alt="Matplotlib" 
     title="Matplotlib"
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
 />
