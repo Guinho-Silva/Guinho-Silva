@@ -3,11 +3,10 @@
 **`Desenvolvedor de Software`**
 
 Me chamo Iago Silva, tenho 20 anos. Atualmente sou um estudante de Desenvolvimento de Software.
-?logo=icons8-microsoft-excel-2019-48
 
 <p align="left">
   
-  <a href="mailto: iagosilvaadrade0508@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=iagosilvaadrade0508@gmail.com">
         <img 
             alt="sendmeEmail" 
             title="Envie-me um Email" 
