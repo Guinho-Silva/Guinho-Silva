@@ -6,7 +6,7 @@ Me chamo Iago Silva, tenho 20 anos. Atualmente sou um estudante de Desenvolvimen
 
 <p align="left">
   
-  <a href="malito:iagosilvaadrade0508@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=iagosilvaadrade0508@gmail.com&su=Contato%20via%20GitHub&body=Olá%20Iago,%20vim%20pelo%20seu%20GitHub.">
         <img 
             alt="sendmeEmail" 
             title="Envie-me um Email" 
@@ -84,33 +84,6 @@ DevIcons
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<!--<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>-->
-
-<!--<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>-->
-
 <img 
     align="left" 
     alt="Bootstrap"
@@ -120,15 +93,6 @@ DevIcons
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
-<!--<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>-->
-
 <img 
     align="left" 
     alt="PHP" 
@@ -137,15 +101,6 @@ DevIcons
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-
-<!--<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>-->
 
 <img 
     align="left" 
