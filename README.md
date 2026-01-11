@@ -6,7 +6,7 @@ Me chamo Iago Silva, tenho 20 anos. Atualmente sou um estudante de Desenvolvimen
 
 <p align="left">
   
-  <a href="malito: iagosilvaadrade0508@gmail.com">
+  <a href="malito:iagosilvaadrade0508@gmail.com">
         <img 
             alt="sendmeEmail" 
             title="Envie-me um Email" 
