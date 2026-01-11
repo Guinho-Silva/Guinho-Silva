@@ -4,9 +4,10 @@
 
 Me chamo Iago Silva, tenho 20 anos. Atualmente sou um estudante de Desenvolvimento de Software, com interesse em Engenharia de Dados e/ou áreas correlatas.
 
+
 <p align="left">
   
-  <a href="https://mail.google.com/mail/?view=cm&to=iagosilvaadrade0508@gmail.com&su=Contato%20via%20GitHub&body=Olá%20Iago,%20vim%20pelo%20seu%20GitHub.">
+  <a href="mailto:iagosilvaadrade0508@gmail.com">
         <img 
             alt="sendmeEmail" 
             title="Envie-me um Email" 
