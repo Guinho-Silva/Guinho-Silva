@@ -43,7 +43,7 @@ DevIcons
     align="left" 
     alt="Python" 
     title="Python"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -52,7 +52,7 @@ DevIcons
     align="left" 
     alt="SQL"
     title="SQL" 
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
@@ -61,7 +61,7 @@ DevIcons
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
@@ -70,7 +70,7 @@ DevIcons
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -79,7 +79,7 @@ DevIcons
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -115,7 +115,7 @@ DevIcons
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
@@ -133,7 +133,7 @@ DevIcons
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
@@ -151,7 +151,7 @@ DevIcons
     align="left" 
     alt="Git" 
     title="Git"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -166,7 +166,7 @@ DevIcons
     align="left" 
     alt="VsCode" 
     title="VsCode"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
@@ -175,7 +175,7 @@ DevIcons
     align="left" 
     alt="Colab" 
     title="Colab"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-plain.svg" 
 />
@@ -184,7 +184,7 @@ DevIcons
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
@@ -193,7 +193,7 @@ DevIcons
     align="left" 
     alt="SQLServer" 
     title="SQLServer"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
 />
@@ -208,7 +208,7 @@ DevIcons
     align="left" 
     alt="Pandas" 
     title="Pandas"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
 />
@@ -217,7 +217,7 @@ DevIcons
     align="left" 
     alt="Numpy" 
     title="Numpy"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
 />
@@ -226,7 +226,7 @@ DevIcons
     align="left" 
     alt="Matplotlib" 
     title="Matplotlib"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
 />
