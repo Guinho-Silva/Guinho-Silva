@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Iago Silva, tenho 20 anos. Atualmente sou um estudante de Desenvolvimento de Software, com interesse em Engenharia de Dados e/ou áreas correlatas.
+Me chamo Iago Silva. Atualmente sou um estudante de Desenvolvimento de Software, com interesse em Engenharia de Dados e/ou áreas correlatas.
 
 
 <p align="left">
