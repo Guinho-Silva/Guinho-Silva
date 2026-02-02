@@ -2,10 +2,10 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Iago Silva. Atualmente, sou um estudante de Desenvolvimento de Software com interesse em Engenharia de Dados e/ou áreas correlatas.
+Me chamo Iago Silva. Atualmente, sou um estudante de Desenvolvimento de Software com interesse em Análise de Dados e/ou áreas correlatas.
 
 **English version:** </br>
-I'm Iago Silva. At the moment, i'm a Software Development student whit an interest in Data Engineering and/or related areas.
+I'm Iago Silva. At the moment, i'm a Software Development student whit an interest in Data Analitycs and/or related areas.
 
 <p align="left">
   
