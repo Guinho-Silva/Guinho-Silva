@@ -1,6 +1,9 @@
 # 👨‍💻🎲 Iago Silva
 
-**`Desenvolvedor de Software`**
+
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Python-blue?style=for-the-badge)
+![Software Development](https://img.shields.io/badge/Software%20Development-Learning-green?style=for-the-badge)
+
 
 Me chamo Iago Silva. Atualmente, sou um estudante de Desenvolvimento de Software com interesse em Análise de Dados e/ou áreas correlatas.
 
@@ -8,6 +11,14 @@ Me chamo Iago Silva. Atualmente, sou um estudante de Desenvolvimento de Software
 I'm Iago Silva. At the moment, i'm a Software Development student whit an interest in Data Analitycs and/or related areas.
 
 <p align="left">
+
+ <a href="https://www.linkedin.com/in/iago-silva-159823234/">
+        <img 
+            alt="LinkedIn" 
+            title="LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Iago%20Silva-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=0A66C2"
+        />
+    </a>
   
   <a href="mailto:iagosilvaadrade0508@gmail.com">
         <img 
@@ -31,7 +42,12 @@ I'm Iago Silva. At the moment, i'm a Software Development student whit an intere
             src="https://custom-icon-badges.demolab.com/github/stars/Guinho-Silva?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
+
+ 
 </p>
+
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iago%20Silva-blue?style=for-the-badge&logo=linkedin)](SEU_LINK)-->
+
 
 ---
 <!--
@@ -213,3 +229,4 @@ DevIcons
   />
   
 </p>
+
